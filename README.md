@@ -1,2 +1,2 @@
 # Minecraft Site:
- https://danielbenatti.github.io/Minecraft/Minecraft/index.html
+ https://danielbenatti.github.io/Minecraft/Site/index.html
